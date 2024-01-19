@@ -1,8 +1,10 @@
 public class GoogleBillboard {
+	
 	public final static String e = "2.7182818284590452353602874713526624977572470936999595749669676277240766303535475945713821785251664274274663919320030599218174135966290435";  
 	public static void main(final String[] args) {
   String digits ="";
   double dNum = 0;
+  double ans=0;
   //System.out.println(e.length()-2);  //displays 7.182818284E9}
 
   for (int i=2; i<(e.length()-10); i++) {
