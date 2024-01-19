@@ -26,7 +26,7 @@ public class GoogleBillboard {
 
 		//System.out.println("Replace this string with your answer!");
 	}
-}
+
 
 
 	//Finish this function
@@ -40,7 +40,6 @@ public boolean isPrime(double num) {
   }
   return false;
 }
+
 }
-
-
 
